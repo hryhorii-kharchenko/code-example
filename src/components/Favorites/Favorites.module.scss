@@ -1,0 +1,15 @@
+.favorites {
+  width: calc(35% - 20px);
+  height: 50vh;
+  padding: 0 15px;
+  border: 1px rebeccapurple solid;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  overflow: auto;
+}
+
+.title {
+  margin: 20px auto 15px;
+  text-align: center;
+}

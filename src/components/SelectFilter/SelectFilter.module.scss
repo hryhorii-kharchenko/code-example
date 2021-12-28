@@ -1,0 +1,51 @@
+.filter {
+  margin: 0 5px;
+  max-width: 300px;
+  width: 100%;
+  height: 30px;
+  position: relative;
+}
+
+.display {
+  width: 100%;
+  height: 100%;
+  border: 1px rebeccapurple solid;
+  border-radius: 5px;
+  padding: 0 10px;
+  background-color: transparent;
+  text-align: left;
+}
+
+.options {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  width: 100%;
+  margin: 5px 0 0;
+  padding: 0;
+  border: 1px rebeccapurple solid;
+  border-radius: 5px;
+  background-color: #fff;
+  z-index: 100;
+}
+
+.option {
+}
+
+.optionBtn {
+  width: 100%;
+  height: 30px;
+  border: 0;
+  border-top: 1px rebeccapurple solid;
+  padding: 0 10px;
+  background-color: transparent;
+  text-align: left;
+}
+
+.optionBtn:hover {
+  background-color: rgba(102, 51, 153, 0.2);
+}
+
+.optionBtn:first-child {
+  border-top: none;
+}

@@ -1,0 +1,17 @@
+.dateFilter {
+  margin: 0 0 0 5px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.input {
+  width: 100%;
+  height: 30px;
+  border: 1px rebeccapurple solid;
+  border-radius: 5px;
+  padding: 0 10px;
+  background-color: transparent;
+  text-align: left;
+  outline: none;
+}

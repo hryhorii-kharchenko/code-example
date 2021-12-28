@@ -1,0 +1,25 @@
+.main {
+  width: calc(65% - 20px);
+  padding: 0 15px;
+  border: 1px rebeccapurple solid;
+}
+
+.filters {
+  margin: 30px 0 20px;
+}
+
+.filtersGroup {
+  margin: 10px 0;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.title {
+  margin: 20px auto 15px;
+  text-align: center;
+}
+
+.characters {
+
+}

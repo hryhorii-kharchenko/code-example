@@ -1,0 +1,29 @@
+.character {
+  width: 100%;
+  margin: 10px 0 0;
+  padding: 12px 10px;
+  border: 1px solid rebeccapurple;
+  overflow: hidden;
+
+  &.isOpen {
+    border: 0;
+  }
+}
+
+.name {
+  max-width: 180px;
+  margin: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+
+  font-weight: normal;
+}
+
+.details {
+
+}
+
+.detail {
+
+}
